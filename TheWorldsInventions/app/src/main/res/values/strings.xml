@@ -1,0 +1,119 @@
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">The World\'s Inventions</string>
+
+    <!-- Title for the quiz -->
+    <string name="title_quiz">The World\'s Inventions Quiz</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="type_name">Type your name</string>
+
+    <!-- Text of the 1. question -->
+    <string name="question_1">1. Who invented the BALLPOINT PEN?</string>
+
+    <!-- Text of the four radio buttons of the 1. question -->
+    <string name="radio1_1">Biro Brothers</string>
+    <string name="radio1_2">Waterman Brothers</string>
+    <string name="radio1_3">Bicc Brothers</string>
+    <string name="radio1_4">Write Brothers</string>
+
+    <!-- Text of the 2. question -->
+    <string name="question_2">2. Which scientist discovered the radioactive element radium?</string>
+
+    <!-- Text of the four radio buttons of the 2. question -->
+    <string name="radio2_1">Isaac Newton</string>
+    <string name="radio2_2">Albert Einstein</string>
+    <string name="radio2_3">Benjamin Franklin</string>
+    <string name="radio2_4">Marie Curie</string>
+
+    <!-- Text of the 3. question -->
+    <string name="question_3">3. What Galileo invented about 1590?</string>
+
+    <!-- Hint text display in the empty field for the user's answer -->
+    <string name="type_answer">Type your answer</string>
+
+    <!-- Text of the 4. question -->
+    <string name="question_4">4. What Thomas Jefferson - one of early presidents of USA, invented? (more than one answer is correct)</string>
+
+    <!-- Text of the six checkboxes of the 4. question -->
+    <string name="checkbox4_1">Hygrometer</string>
+    <string name="checkbox4_2">Swivel chair</string>
+    <string name="checkbox4_3">Spherical sundial</string>
+    <string name="checkbox4_4">Moldboard plow</string>
+    <string name="checkbox4_5">Radio</string>
+    <string name="checkbox4_6">Cipher wheel</string>
+
+    <!-- Text of the 5. question -->
+    <string name="question_5">5. What James Watt invented?</string>
+
+    <!-- Text of the four radio buttons of the 5. question -->
+    <string name="radio5_1">Diving bell</string>
+    <string name="radio5_2">Steam boat</string>
+    <string name="radio5_3">Hot air balloon</string>
+    <string name="radio5_4">Rotary steam engine</string>
+
+    <!-- Text of the 6. question -->
+    <string name="question_6">6. What invention caused many deaths while testing it?</string>
+
+    <!-- Text of the four radio buttons of the 6. question -->
+    <string name="radio6_1">Dynamite</string>
+    <string name="radio6_2">Ladders</string>
+    <string name="radio6_3">Race cars</string>
+    <string name="radio6_4">Parachute</string>
+
+    <!-- Text of the 7. question -->
+    <string name="question_7">7. In which decade was the telephone invented?</string>
+
+    <!-- Text of the four radio buttons of the 7. question -->
+    <string name="radio7_1">1850s</string>
+    <string name="radio7_2">1860s</string>
+    <string name="radio7_3">1870s</string>
+    <string name="radio7_4">1880s</string>
+
+    <!-- Text of the 8. question -->
+    <string name="question_8">8. What Benjamin Franklin invented? (more than one answer is correct)"</string>
+
+    <!-- Text of the six checkboxes of the 8. question -->
+    <string name="checkbox8_1">Bifocal spectacles</string>
+    <string name="checkbox8_2">Radio</string>
+    <string name="checkbox8_3">Barometer</string>
+    <string name="checkbox8_4">Hygrometer</string>
+    <string name="checkbox8_5">Lightning rod</string>
+    <string name="checkbox8_6">Rocking chair</string>
+
+    <!-- Text of the 9. question -->
+    <string name="question_9">9. When was Monopoly created?</string>
+
+    <!-- Text of the four radio buttons of the 9. question -->
+    <string name="radio9_1">1940s</string>
+    <string name="radio9_2">1930s</string>
+    <string name="radio9_3">1920s</string>
+    <string name="radio9_4">1950s</string>
+
+    <!-- Text of the 10. question -->
+    <string name="question_10">10. Where was the yo-yo invented?</string>
+
+    <!-- Name of the button for submit the quiz -->
+    <string name="submit">Submit quiz</string>
+
+    <!-- "Name" of person when Name field is empty -->
+    <string name="stranger">Stranger</string>
+
+    <!-- 2 different possibilities answers of question 3 -->
+    <string name="thermometer">thermometer</string>
+    <string name="Thermometer">Thermometer</string>
+
+    <!-- 2 different possibilities answers of question 10 -->
+    <string name="Philippines">Philippines</string>
+    <string name="philippines">philippines</string>
+
+    <!-- Final toast messages -->
+    <string name="hey">Hey </string>
+    <string name="you_get">! You get </string>
+    <string name="ten">/10 points. </string>
+    <string name="unfortunately">! Unfortunately you get </string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="try_again">Try again!</string>
+    <string name="maximum_points">Try again to get maximum points.</string>
+
+</resources>
